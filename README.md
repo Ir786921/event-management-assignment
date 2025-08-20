@@ -29,16 +29,16 @@ A simple and aesthetic event management app built with **Next.js (App Router)**,
 ## Screenshots 
 
  ### Starting Point
-  ![start](./apps/docs/images/Screenshot (481).png)
+  ![start](/apps/docs/images/Screenshot (481).png)
  
  ### Add Event
- ![AddEvent](./apps/docs/images/Screenshot (483).png)
+ ![AddEvent](/apps/docs/images/Screenshot (483).png)
 
  ### Delete Event
- ![DeleteEvent](./apps/docs/images/Screenshot (484).png)
+ ![DeleteEvent](/apps/docs/images/Screenshot (484).png)
 
  ### Search Event
- ![SearchEvent](./apps/docs/images/Screenshot (486).png)
+ ![SearchEvent](/apps/docs/images/Screenshot (486).png)
 
 
 
